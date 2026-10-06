@@ -16,18 +16,11 @@ This project demonstrates a stunning **Cards Stacking On Scroll** using the GSAP
 
 ---
 
-## Tutorial
-
-This project is explained step-by-step in the following YouTube tutorial:
-[Watch the Tutorial Here](https://youtu.be/pVW3_5Pweqk)
-
----
-
 ## How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YT-PixelPerfectLabs/card-stacking-gsap.git
+   git clone https://github.com/Dhiraj73Ray/Cards-Stacking-with-GSAP.git
 
 
 ---
@@ -36,7 +29,7 @@ This project is explained step-by-step in the following YouTube tutorial:
 
 If you like this project and want to support my work, consider buying me a coffee!
 
-<a href="https://www.buymeacoffee.com/pixelperfectlabs">
+<a href="https://www.buymeacoffee.com/dhiraj73ray">
   <img src="https://i.ibb.co/8sYMgd1/bmc-qr.png" alt="Buy Me a Coffee" height="200" width="200" />
 </a>
 

@@ -4,7 +4,7 @@ This project demonstrates a stunning **Cards Stacking On Scroll** using the GSAP
 
 ## Demo
 
-[Demo](https://yt-pixelperfectlabs.github.io/card-stacking-gsap/index.html)
+[Demo](https://cards-stacking-with-gsap.netlify.app/)
 
 ---
 
